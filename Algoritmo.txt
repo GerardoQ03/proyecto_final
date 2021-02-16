@@ -1,0 +1,15 @@
+1. Se debe crear un programa cotizador de seguros. 
+2. Al iniciar el programa este debe preguntar el nombre del asegurado.
+3. Se debe dejar un espacio para que responda.
+4. Luego saldra otra ventana que haga una serie de preguntas.
+5. La primera pregunta sera la edad del asegurado.
+6. La segunda pregunta sera si esta casado.
+7. Si el asegurado responde que si saldra otra ventana.
+8. En esta preguntara si tiene esposa.
+9. Luego saldra otra ventana preguntando si tiene hijos.
+10. Si la respuesta es afirmativa saldra otra ventana.
+11. En esta se le preguntara al asegurado cuantos hijos tiene.
+12. Luego de estas preguntas el programa debe analizar las respuesta y calcular los recargos de la cotizacion.
+13. El programa ira guardando todos los datos.
+14. Al final debe mostrar el nombre del asegurado, la cantidad extra de recargo y el precio total de la cotizacion.
+
